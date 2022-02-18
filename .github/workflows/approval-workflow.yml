@@ -1,1 +1,2 @@
 name: Approval
+on: pull_request_review
